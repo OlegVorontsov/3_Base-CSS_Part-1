@@ -100,8 +100,8 @@ body {
 }
 
 .list {
-  margin-top: 0;
-  margin-left: 15px;
+  margin: 0;
+  padding-left: 15px;
 }
 
 .list__item:not(:last-child) {
@@ -115,6 +115,6 @@ body {
 .image__content{
   display: inline-block;
   width: 872px;
-  margin-top: 0;
+  margin: 0;
   margin-bottom: 40px;
 }
